@@ -6,7 +6,7 @@
 
 # Multi Converter - by @dull goodman
 
-<img src="assets/logo.png" alt="Dull Converter Logo" width="525"/>
+<img src="assets/logo.png" alt="Dull Converter Logo" />
 <br/><br/>
 
 <!-- BADGES -->
