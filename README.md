@@ -4,7 +4,7 @@
 <!-- Replace the line below with your actual logo image -->
 <!-- Example: <img src="assets/logo.png" alt="Dull Converter Logo" width="180"/> -->
 
-# Multi Converter - by @dull goodman
+# Dull Converter - by @dull goodman
 
 <img src="assets/logo.png" alt="Dull Converter Logo" />
 <br/><br/>
