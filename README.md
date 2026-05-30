@@ -7,11 +7,10 @@
 # Multi Converter - by @dull goodman
 
 <img src="assets/logo.png" alt="Dull Converter Logo" width="525"/>
-<br/>
+<br/><br/>
 
 <!-- BADGES -->
 [![GitHub](https://img.shields.io/badge/GitHub-root--abdullLabs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/root-abdullLabs)
-[![Repo](https://img.shields.io/badge/Repo-Dull__Converter-6e40c9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/root-abdullLabs/Dull_Converter)
 [![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/root-abdullLabs/Dull_Converter)
 [![Release](https://img.shields.io/badge/Release-v2.2.10-orange?style=for-the-badge&logo=github&logoColor=white)](https://github.com/root-abdullLabs/Dull_Converter/releases/tag/2.2.10)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
@@ -198,45 +197,10 @@ C:\Users\Download\Converter_By_Dull_Portable
 
 ## ⚠️ Disclaimer
 
-**Converter By Dull** is created to help users convert personal files more easily and efficiently.
-
-Users are solely responsible for ensuring they have the proper rights, permissions, or licenses to convert, download, or process any file used with this tool. The developer is not responsible for any misuse of this software, including but not limited to converting copyrighted content without authorization.
-
-Use this tool responsibly and in accordance with applicable laws and regulations.
+**Converter By Dull is created to help users convert personal files more easily and efficiently. Users are solely responsible for ensuring they have the proper rights, permissions, or licenses to convert, download, or process any file used with this tool. The developer is not responsible for any misuse of this software, including but not limited to converting copyrighted content without authorization. Use this tool responsibly and in accordance with applicable laws and regulations.**
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
-```
-MIT License
-
-Copyright (c) 2024 root-abdullLabs
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
-```
-
-> 📌 **Note:** Create a `LICENSE` file in the root of your repository and paste the text above into it.
-
----
 
 <div align="center">
 
