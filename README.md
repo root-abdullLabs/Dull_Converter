@@ -6,7 +6,7 @@
 
 # Multi Converter - by @dull goodman
 
-<img src="assets/logo.png" alt="Dull Converter Logo" width=""/>
+<img src="assets/logo.png" alt="Dull Converter Logo" width="525"/>
 <br/><br/>
 
 <!-- BADGES -->
@@ -145,7 +145,8 @@
 
 Download the latest portable version directly from the release page:
 
-🔗 **[https://github.com/root-abdullLabs/Dull_Converter/releases/tag/2.2.10](https://github.com/root-abdullLabs/Dull_Converter/releases/tag/2.2.10)**
+**[⬇️ Click here to Download the Latest Release](https://github.com/root-abdullLabs/Dull_Converter/releases/tag/2.2.10)**
+
 **[💬 Feedback & Contact](https://github.com/root-abdullLabs/Dull_Converter#-feedback--contact)**
 
 ```
